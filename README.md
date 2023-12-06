@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Next js, Node, Express, Mongodb**
 
-- 👨‍💻 All of my projects are available at [https://alamincodes.vercel.app/](https://alamincodes.vercel.app/)
-
 - 📫 How to reach me **mdalamincodes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alamincodes&show_icons=true&locale=en" alt="alamincodes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alamincodes&" alt="alamincodes" /></p>
-
