@@ -14,6 +14,6 @@ Professional Front-End Developer.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alamincodes/alamincodes/output/snake.svg" alt="Snake animation" />
 
 ###
